@@ -1,0 +1,28 @@
+name: imagineer
+favicon: null
+layout_spectrum: 0.7197209121659398
+typography_spectrum: 0.43093283707275987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4650954178068787
+  lightness: 0.6711762349586934
+  saturation: 0.475648008286953
+  rhythmicContrast: 0.6842688373290002
+purpose: []
